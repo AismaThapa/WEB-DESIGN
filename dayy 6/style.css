@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    background: white;
+}
+.click-me{
+    margin-top: 15px;
+}
+.click-me{
+    display: inline-block;
+    background:yellow;
+    text-decoration: none;
+    color: rgb(143, 112, 216);
+    border: black 8px solid;
+    padding: 15px,30px;
+    border-radius: 30px;
+    font-size: 18px;
+    transition: all linear 0.3s;
+    
+}
+.click-me a:hover{
+    background:pink;
+    color:black;
+    border-radius:0;
+    box-shadow: 10px 10px 10px 5px black;
+
+}
+.card-box{
+    width:60px;
+    background: white;
+}
+.card-box .card-image img{
+    width:100%;
+    box-shadow: 3px 3px 3px 2px grey;
+    
+}
+.card-box{
+    width: 60px;
+    background: white;
+}
+.card-box .card-image img{
+    width:100%;
+}
+.card-box{
+    width: 60px;
+    background: white;
+}
+.card-box .card-image img{
+    width: 100%;
+}
+.card-box{
+    width: 60px;
+    background: white;
+}
+.card-box .card-image img{
+    width: 100%;
+}
